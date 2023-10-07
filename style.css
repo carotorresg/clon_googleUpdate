@@ -67,7 +67,7 @@ main {
 footer {
     height: auto;
     position:absolute;
-    width:96vw;
+    width:100vw;
     bottom: 0;
     align-items: baseline;
     padding:0px 20px;
